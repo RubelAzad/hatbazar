@@ -2,4 +2,37 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    color: #4F4F4F;
+}
+.container{
+    max-width: 1400px;
+}
+.font-size-32{
+    font-size: 32px;
+}
+.hb-gray{
+    color: #828282;
+    ;
+}
+.hb-gray-color{
+    color: #4F4F4F;
+}
+.hb-gray-backgrund{
+    background-color: #4F4F4F;
+}
+.hb-icon-box{
+    width: 60px;
+    height: 60px;
+}
+.hb-orange-background{
+    background-color: #FF5C00;
+}
+.hb-orange-color{
+    color: #FF5C00;
+}
+.hb-green-background{
+    background-color: #27AE60;
+}
+.hb-green-color{
+    color: #27AE60;
 }
